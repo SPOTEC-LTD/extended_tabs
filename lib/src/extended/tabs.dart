@@ -1,7 +1,7 @@
 import 'package:extended_tabs/src/extended/page_view.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:sync_scroll_library/sync_scroll_library.dart';
 part 'package:extended_tabs/src/official/tabs.dart';
 

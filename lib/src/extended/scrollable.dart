@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Provide a way for contents get hit test when it's scrolling
 class ExtendedScrollable extends Scrollable {

@@ -1,7 +1,7 @@
 // ignore_for_file: unused_element
 
 import 'package:extended_tabs/src/extended/tab_bar.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class CarouselIndicator extends StatelessWidget {
   const CarouselIndicator({

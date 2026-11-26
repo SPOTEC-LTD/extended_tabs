@@ -1,5 +1,5 @@
 import 'package:ff_annotation_route_library/ff_annotation_route_library.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:extended_tabs_example/extended_tabs_example_route.dart';
 import 'package:extended_tabs_example/extended_tabs_example_routes.dart';
 
